@@ -6,3 +6,4 @@
 | 2 | #217 | Contains Duplicate |
 | 3 | #242 | Valid Anagram |
 | 4 | #169 | MajorityElement |
+| 5 | #121 | BestTimeToBuySellStock |
