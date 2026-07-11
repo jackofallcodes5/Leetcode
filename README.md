@@ -9,3 +9,4 @@
 | 5 | #121 | BestTimeToBuySellStock |
 | 6 | #53 | MaxSubArray |
 | 7 | #238 | ProductExceptSel |
+| 8 | #152 | MaxProduct |
